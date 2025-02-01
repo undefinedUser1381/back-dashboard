@@ -1,9 +1,3 @@
 {
-  "todos" : [
-    {"name" : "first" , "id" : "2" , "isDone" : "false"},
-    {"name" : "two" , "id" : "2" , "isDone" : "false"},
-    {"name" : "three" , "id" : "2" , "isDone" : "false"},
-    {"name" : "four" , "id" : "2" , "isDone" : "false"},
-    {"name" : "five" , "id" : "2" , "isDone" : "false"}
-  ]
+  "users" : []
 }
