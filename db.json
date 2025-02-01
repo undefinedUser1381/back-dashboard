@@ -1,10 +1,12 @@
 {
   "users" : [
-    id : "953cd9d6-0bc3-4719-9969-e99b9fad681a",
-    name : "Seyed Erfan Ghexi",
-    pass : "11338811",
-    email : "erfanghezi5050@gmail.com",
-    token : "953cd9d6-0bc3-4719-9969-e99b9fad681a",
-    notifs : []
+    {
+     id : "953cd9d6-0bc3-4719-9969-e99b9fad681a",
+     name : "Seyed Erfan Ghexi",
+     pass : "11338811",
+     email : "erfanghezi5050@gmail.com",
+     token : "953cd9d6-0bc3-4719-9969-e99b9fad681a",
+     notifs : []
+    }
   ]
 }
