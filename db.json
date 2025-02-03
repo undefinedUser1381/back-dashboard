@@ -12,6 +12,6 @@
     "todos" : [
         {"id" : "1" , "title" : "Wash dishes" , "isComplete" : "false"},
         {"id" : "2" , "title" : "Coding" , "isComplete" : "true"},
-        {"id" : "3" , "title" : "Start Next.js" , "isComplete" : "false"},
+        {"id" : "3" , "title" : "Start Next.js" , "isComplete" : "false"}
     ]
   }
