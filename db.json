@@ -8,7 +8,7 @@
        "token" : "953cd9d6-0bc3-4719-9969-e99b9fad681a",
        "notifs" : []
        }
-    ]
+    ],
     "todos" : [
         {"id" : "1" , "title" : "Wash dishes" , "isComplete" : "false"},
         {"id" : "2" , "title" : "Coding" , "isComplete" : "true"},
