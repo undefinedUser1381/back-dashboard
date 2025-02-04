@@ -13,5 +13,10 @@
         {"id" : "1" , "title" : "Wash dishes" , "isComplete" : "false"},
         {"id" : "2" , "title" : "Coding" , "isComplete" : "true"},
         {"id" : "3" , "title" : "Start Next.js" , "isComplete" : "false"}
-    ]
+    ],
+    "members" : [
+       {"id" : "1" , "name" : "Hossein" , "email" : "yechi@gmail.com" , "phone" : "09333434545" , "wallet" : "12000" , "date" : "2025/2/4" , "role" : "USER"},
+       {"id" : "2" , "name" : "Mohammad" , "email" : "fechi@gmail.com" , "phone" : "09333434745" , "wallet" : "22000" , "date" : "2025/2/3" , "role" : "USER"},
+       {"id" : "3" , "name" : "Seyed" , "email" : "sechi@gmail.com" , "phone" : "09333434598" , "wallet" : "34000" , "date" : "2025/2/5" , "role" : "ADMIN"}
+    ]  
   }
