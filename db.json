@@ -18,5 +18,10 @@
        {"id" : "1" , "name" : "Hossein" , "email" : "yechi@gmail.com" , "phone" : "09333434545" , "wallet" : "12000" , "date" : "2025/2/4" , "role" : "USER"},
        {"id" : "2" , "name" : "Mohammad" , "email" : "fechi@gmail.com" , "phone" : "09333434745" , "wallet" : "22000" , "date" : "2025/2/3" , "role" : "USER"},
        {"id" : "3" , "name" : "Seyed" , "email" : "sechi@gmail.com" , "phone" : "09333434598" , "wallet" : "34000" , "date" : "2025/2/5" , "role" : "ADMIN"}
+    ],
+    "articles" : [
+       {"id" : "1" , "title" : "What is js ?" , "imgSrc" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcampus.epam.com%2Fen%2Fblog%2F255&psig=AOvVaw298qTksl3ouavVdZBdsYIC&ust=1739093857909000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDrndDjs4sDFQAAAAAdAAAAABAJ" , "description" : "Js is a programming language that use for web , mobile and ... . A powerfull language." , "author" : "Haj molla hadi" , "duration" : "12:45" , "category" : "Front-End"},
+       {"id" : "2" , "title" : "What is C# ?" , "imgSrc" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.theodo.com%2F2022%2F01%2Ftypescript-replace-as-typeguards%2F&psig=AOvVaw3AFnScD9MwjMuqgoDZtcsU&ust=1739094188602000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiQqe7ks4sDFQAAAAAdAAAAABAE" , "description" : "Js is a programming language that use for web , mobile and ... . A powerfull language." , "author" : "Ebn Cina" , "duration" : "10:40" , "category" : "Programming"},
+       {"id" : "3" , "title" : "What is Ts ?" , "imgSrc" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjelvix.com%2Fblog%2Fwhat-is-c-used-for&psig=AOvVaw1au3-ruun4jO0e97GztTTd&ust=1739094235628000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjFtoPls4sDFQAAAAAdAAAAABAE" , "description" : "Js is a programming language that use for web , mobile and ... . A powerfull language." , "author" : "Abolfaxl Beyhaghi" , "duration" : "09:22" , "category" : "Front-End"} 
     ]  
   }
